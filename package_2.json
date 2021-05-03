@@ -1,0 +1,19 @@
+{
+  "name": "twitchcanais",
+  "version": "0.0.1",
+  "description": "farm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "command-line-args": "^5.0.2",
+    "fs": "0.0.1-security",
+    "moment": "^2.22.2",
+    "pm2": "^3.2.2",
+    "request": "^2.88.0",
+    "tmi.js": "^1.2.1"
+  }
+}
