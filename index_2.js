@@ -12,7 +12,7 @@ var options =
 	},
 	identity: 
 	{
-		username: "cpt_TRS",
+		username: "cpt_trs",
 		password: "oauth:ec24amaubemcys6a0dgj2pqdliv7jw",
 	},
 	channels: ['#gaules',] //ADICIONA OS CANAIS AQ COM '#NOME'
